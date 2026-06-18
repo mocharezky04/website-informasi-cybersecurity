@@ -19,7 +19,6 @@
 
 **Website Informasi** adalah portal artikel keamanan siber berbasis Laravel yang dirancang untuk simulasi SOC Analyst dan mahasiswa keamanan informasi. Project ini menampilkan sistem manajemen konten (CMS) untuk artikel cybersecurity, integrasi AI untuk pembuatan draf artikel dan analisis log insiden, serta audit hardening checklist interaktif.
 
-Cocok untuk tugas kuliah, portfolio, atau demo presentasi dengan data siap pakai.
 
 ## Key Features
 
